@@ -1,7 +1,7 @@
 <div>
   <img src="https://komarev.com/ghpvc/?username=egarrisxn&style=flat&color=blue" alt="Visit Counter" height="20" align="right" />
   <br/>
-  <h2><b>Hello! I'm <a href="https://egxo.dev">Ethan Garrison</a>.</b></h2>
+  <h2><b>Hey! I'm <a href="https://www.linkedin.com/in/ethan-gx">Ethan</a>.</b></h2>
 </div>
 <div>
   <h4><b>💾 About Me</b></h4>
