@@ -14,7 +14,7 @@ I build responsive, accessible web applications along with scalable, user‑cent
 
 ### Current Stack
 
-TypeScript, Next.js, Tailwind CSS, Node.js, Sanity CMS, Supabase & more.
+TypeScript, Next.js, Tailwind CSS, Node.js, Sanity CMS, Supabase, etc.
 
 ---
 
