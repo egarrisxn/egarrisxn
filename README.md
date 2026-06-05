@@ -14,15 +14,15 @@ I build responsive, accessible web applications along with scalable, user‑cent
 
 ### Current Stack
 
-TypeScript, Next.js, Tailwind CSS, Node.js, Sanity CMS, Supabase, etc.
+- TypeScript, Next.js, Tailwind CSS, Node.js, Sanity CMS, Supabase, etc.
 
 ---
 
 ### Current Focus
 
-- Shipping products as fast, safe, and seamless as humanly possible.
-- Improving developer experience, maintainability, and performance.
-- Applying AI‑assisted development in a responsible, sustainable way.
+1. Shipping products as fast, safe, and seamless as humanly possible.
+2. Improving developer experience, maintainability, and performance.
+3. Applying AI‑assisted development in a responsible, sustainable way.
 
 ---
 
