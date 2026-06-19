@@ -1,29 +1,19 @@
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=egarrisxn&style=flat&color=blue" alt="Profile views" />
-</div>
+# Ethan Garrison
 
-## Ethan Garrison
+Software & Business Developer focused on full‑stack development, operations, and client‑facing solutions.<br/>
+Building responsive, accessible web applications along with scalable, user‑centered products.<br/>
+Questions? Comments? Concerns? Share it with me via email at [Ethan@egxo.dev](mailto:ethan@egxo.dev).
 
-Software & Business Developer focused on full‑stack development, operations, and client‑facing solutions.
-<br/>
-I build responsive, accessible web applications along with scalable, user‑centered products.
+## Current Stack
 
-[ethan@egxo.dev](mailto:ethan@egxo.dev)
+TypeScript, Next.js, React, Node.js, Tailwind CSS, PostgreSQL, Supabase, Sanity, & more.
 
----
+## Current Focus
 
-### Current Stack
+Shipping products as fast, safe, and seamless as humanly possible.<br/>
+Improving developer experience, maintainability, and performance.<br/>
+Applying AI‑assisted development in a responsible, sustainable way.
 
-- TypeScript, Next.js, Tailwind CSS, Node.js, Sanity CMS, Supabase, etc.
-
----
-
-### Current Focus
-
-1. Shipping products as fast, safe, and seamless as humanly possible.
-2. Improving developer experience, maintainability, and performance.
-3. Applying AI‑assisted development in a responsible, sustainable way.
-
----
+## Current Jams
 
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=egarrisxn&count=1&width=350" alt="Spotify recently played" width="350" />
